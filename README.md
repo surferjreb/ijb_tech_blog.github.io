@@ -1,40 +1,38 @@
 
-# Program Title
+# My Tech Blog Site
+
 ### *By: James R Brown*
 
 ## Description
->
+
+> A simple tech blog website
 >
 >
 
 ---
 
 ## Dependencies
->
+
+> 
 >
 
 ---
 
 ## Issues
->
+
+> Not finished
 >
 
 ---
 
 ## Fixes
 
->
+> Oh lots of improvments...
 >
 
 ---
 
 ## Versions
->
-
----
-
-## Instructions
->
->
+> 1.0
 
 ---
