@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Docker Project Quest!"
+date:   2025-10-13 21:34:35 -0400
+categories: Docker
+---
+
 # Docker Project Quest
 
 #### *by: James R. Brown*
