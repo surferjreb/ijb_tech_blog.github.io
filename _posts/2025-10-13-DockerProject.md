@@ -2,7 +2,6 @@
 layout: post
 title:  "Docker Project Quest!"
 date:   2025-10-13 21:34:35 -0400
-categories: Docker
 ---
 
 # Docker Project Quest
@@ -28,3 +27,5 @@ Spent the better part of a day trying to get a couple premade docker projects up
 ## Quest continues
 
 Now, what to make...  also, a db..?
+
+#### *{{ site.author }}*
