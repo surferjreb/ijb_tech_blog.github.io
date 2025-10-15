@@ -1,8 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: about
+title: About Me!
 ---
+
+## What is UP!
+
+Oh man there is plenty to go in here, I will have to come back to this later.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
