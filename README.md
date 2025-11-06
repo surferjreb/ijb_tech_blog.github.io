@@ -13,8 +13,8 @@
 
 ## Dependencies
 
+> Jekyll >= 4.4.1
 > 
->
 
 ---
 
