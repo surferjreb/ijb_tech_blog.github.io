@@ -1,4 +1,4 @@
 - name: About
-  link: /about.html
+  link: ./about.html
 - name: Posts
-  link: /posts.html
+  link: ./posts.html
