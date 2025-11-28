@@ -1,0 +1,18 @@
+current directory: /home/ijb/code/webdev/ijb_tech_blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/ijb/code/webdev/ijb_tech_blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251119-93297-tq2qpa sitelibdir\=./.gem.20251119-93297-tq2qpa clean
+
+current directory: /home/ijb/code/webdev/ijb_tech_blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251119-93297-tq2qpa sitelibdir\=./.gem.20251119-93297-tq2qpa
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/ijb/code/webdev/ijb_tech_blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251119-93297-tq2qpa sitelibdir\=./.gem.20251119-93297-tq2qpa install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20251119-93297-tq2qpa/racc
+
+current directory: /home/ijb/code/webdev/ijb_tech_blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251119-93297-tq2qpa sitelibdir\=./.gem.20251119-93297-tq2qpa clean
