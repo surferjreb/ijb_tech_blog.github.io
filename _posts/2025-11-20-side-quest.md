@@ -15,7 +15,7 @@ categories: Arch-restart
 
 So while cruising the pages of Daily Dev, something I like todo in the morning and spotted again something about "Omarchy".  This was a video by the creator or the same cidoe that can be found on the website: [ video link ](https://youtu.be/L3EafsSCv80).  Again not the first time I have heard something about it.  In most cases, just another flavor of linux, with something different set by default.  Lately, since my investigation into arch, my curiosity got the better of me.  I watched the video, dropped jaw, mouth agape to the wonder that is in front of me.  Easy navigation, terminal based, functional and world of wonderment.  Not ever being exposed to such magic as this "Omarchy".  So, not even finishing the video, off to the website I rush as quickly as my fingers could guide me.  The documents I must find and it beings.  
 
-## Exstatic Joy, Brief Dive
+## Ecstatic Joy, Brief Dive
 
 Enthralded by the OS or I should say this flavor.  A mix of Arch and hyperland to bring you a wonderful experience.  Ofcourse, its fully customizable.  Breezing through the documentation, seems simple enough.  Still have a VM with arch already installed.  Now, could use this VM and run the installer here and be done.  What fun would that be?  Also, let's see what happens...
 
