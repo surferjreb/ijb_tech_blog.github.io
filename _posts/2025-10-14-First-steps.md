@@ -66,12 +66,12 @@ Python3 is installed with the distro, part of our checklist of needs along with 
     `sudo systemctl status docker`
     It should say something to the effect of:
 
-    ![Docker service running](/assets/images/docker_running.png)
+    ![Docker service running](//assets/images/docker_running.png)
 
 5. Test it..
     `sudo docker run hello-world`
     Now, you should see a container startup, show you a message and then stop the container.
-    ![hello world ran in docker](./assets/images/docker_hello_world.png)
+    ![hello world ran in docker](//assets/images/docker_hello_world.png)
 
 6. Everything should be going great, if errors have happened at this point and you are frustrated, flush it and rebuild.  
    
